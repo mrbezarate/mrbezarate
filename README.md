@@ -18,9 +18,9 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
-#### 🌐 Frontend & Design
+####  Frontend & Design
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
@@ -28,14 +28,14 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Backend & Systems
+####  Backend & Systems
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 
-#### 🔧 Infrastructure & Workflow
+####  Infrastructure & Workflow
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrbezarate&show_icons=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
   <br/>
