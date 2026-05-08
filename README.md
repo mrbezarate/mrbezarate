@@ -45,7 +45,7 @@
 
 ###  GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrbezarate&show_icons=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrbezarate&show_icons=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" /> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&background=000000&hide_border=true" alt="GitHub Streak" />
 </div>
