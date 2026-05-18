@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Software%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Software%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="[...]
 
   <p align="center">
     <a href="mailto:mrbezarate@gmail.com">
@@ -34,6 +34,9 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat-square&logo=elixir&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-000000?style=flat-square&logo=zig&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat-square&logo=haskell&logoColor=white)
 
 ####  Infrastructure & Workflow
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
@@ -45,7 +48,7 @@
 
 ###  GitHub Activity
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrbezarate&show_icons=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub Stats" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrbezarate&show_icons=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub[...]
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&background=000000&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aa[...]
 </div>
