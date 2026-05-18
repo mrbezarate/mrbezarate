@@ -11,10 +11,10 @@
 </div>
 
 ###  Overview
--  Разрабатываю высокопроизводительные веб-приложения и SaaS решения.
--  Углубляюсь в системное программирование на **Rust**, **C++** и **Java**.
--  Особое внимание уделяю эстетике интерфейсов и сложным анимациям (React, Framer Motion).
--  Локация: **Kazakhstan**.
+-  Developing high-performance web applications and scalable SaaS solutions.
+-  Deep diving into systems programming with Rust, C++, and Java
+-  Focused on interface aesthetics, clean architecture, and complex animations (React, Framer Motion, Three.js).
+-  Location: Kazakhstan (Ready for remote / relocation).
 
 ---
 
