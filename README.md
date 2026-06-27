@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Software%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="[...]
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Software%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%">
 
   <p align="center">
     <a href="mailto:mrbezarate@gmail.com">
@@ -10,35 +10,33 @@
   ---
 </div>
 
-###  Overview
--  Developing high-performance web applications and scalable SaaS solutions.
--  Deep diving into systems programming with Rust, C++, and Java
--  Focused on interface aesthetics, clean architecture, and complex animations (React, Framer Motion, Three.js).
--  Location: Kazakhstan (Ready for remote / relocation).
+###  About Me
+- Building modern web applications with focus on **clean code and user experience**
+- Based in Kazakhstan (Open to remote & relocation)
+- Passionate about **frontend architecture** and smooth animations
+- Exploring systems programming and low-level concepts
 
 ---
 
 ###  Tech Stack
 
-####  Frontend & Design
+####  ⭐ Core Skills (Production Experience)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+
+####  🎨 Frontend Specialties
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 
-####  Backend & Systems
+####  📚 Currently Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat-square&logo=elixir&logoColor=white)
-![Zig](https://img.shields.io/badge/-Zig-000000?style=flat-square&logo=zig&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat-square&logo=haskell&logoColor=white)
 
-####  Infrastructure & Workflow
+####  🛠️ Tools & Infrastructure
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
@@ -48,7 +46,5 @@
 
 ###  GitHub Activity
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrbezarate&show_icons=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=000000&hide_border=true" alt="GitHub[...]
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aa[...]
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&background=000000&hide_border=true" alt="GitHub Streak" />
 </div>
