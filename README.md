@@ -32,6 +32,11 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 
+####  💾 Backend & Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-000000?style=flat-square&logo=api&logoColor=white)
+
 ####  📚 Currently Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
