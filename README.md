@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Software%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%"/>
 
   <p align="center">
     <a href="mailto:mrbezarate@gmail.com">
@@ -11,10 +11,10 @@
 </div>
 
 ###  About Me
-- Building modern web applications with focus on **clean code and user experience**
+- Crafting end-to-end web solutions from **frontend to backend and database**
 - Based in Kazakhstan (Open to remote & relocation)
-- Passionate about **frontend architecture** and smooth animations
-- Exploring systems programming and low-level concepts
+- Specialized in building **scalable applications** with beautiful, responsive interfaces
+- Passionate about **full-stack architecture**, clean code, and optimal performance
 
 ---
 
@@ -27,29 +27,31 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 
-####  🎨 Frontend Specialties
+####  🎨 Frontend Development
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white)
+![Web Design](https://img.shields.io/badge/-Web_Design-000000?style=flat-square&logo=figma&logoColor=white)
 
 ####  💾 Backend & Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-000000?style=flat-square&logo=api&logoColor=white)
+![Server Architecture](https://img.shields.io/badge/-Server_Architecture-000000?style=flat-square&logo=serverless&logoColor=white)
+
+####  🛠️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat-square&logo=github-actions&logoColor=white)
 
 ####  📚 Currently Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-####  🛠️ Tools & Infrastructure
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
-![ZSH](https://img.shields.io/badge/-ZSH-000000?style=flat-square&logo=gnubash&logoColor=white)
-
 ---
 
 ###  GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&background=000000&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa" alt="GitHub Streak" />
 </div>
