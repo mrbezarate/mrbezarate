@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=L.L.%20|%20Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" width="100%">
 
   <p align="center">
     <a href="mailto:mrbezarate@gmail.com">
@@ -48,10 +48,12 @@
 ####  📚 Currently Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat-square&logo=erlang&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat-square&logo=elixir&logoColor=white)
 
 ---
 
 ###  GitHub Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbezarate&stroke=ffffff&text=aaaaaa&dates=aaaaaa&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa" />
 </div>
