@@ -41,9 +41,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" title="Debian" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="macOS" title="macOS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="40" height="40"/> 
 
 ####  🛠️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
