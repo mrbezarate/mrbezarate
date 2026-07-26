@@ -38,16 +38,16 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-000000?style=flat-square&logo=api&logoColor=white)
 ![Server Architecture](https://img.shields.io/badge/-Server_Architecture-000000?style=flat-square&logo=serverless&logoColor=white)
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" title="Debian" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> 
 
 ####  🛠️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat-square&logo=github-actions&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" title="Debian" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> 
 
 ####  📚 Currently Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
