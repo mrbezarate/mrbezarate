@@ -20,26 +20,26 @@
 
 ###  Tech Stack
 
-####  ⭐ Core Skills (Production Experience)
+####  Core Skills (Production Experience)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
 
-####  🎨 Frontend Development
+####  Frontend Development
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Web Design](https://img.shields.io/badge/-Web_Design-000000?style=flat-square&logo=figma&logoColor=white)
 
-####  💾 Backend & Databases
+####  Backend & Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-000000?style=flat-square&logo=api&logoColor=white)
 ![Server Architecture](https://img.shields.io/badge/-Server_Architecture-000000?style=flat-square&logo=serverless&logoColor=white)
 
-####  🛠️ DevOps & Infrastructure
+####  DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
@@ -49,7 +49,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> 
 
-####  📚 Currently Learning
+####  Currently Learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Erlang](https://img.shields.io/badge/-Erlang-000000?style=flat-square&logo=erlang&logoColor=white)
